@@ -1,3 +1,4 @@
+<center>
 # Repte Processing 1
 ## Pol Saña Lázaro
 
@@ -20,3 +21,4 @@
 * Rebot d'element.
 
 ![GIF_3](docs/E3.gif)
+</center>
