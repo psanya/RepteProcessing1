@@ -3,17 +3,17 @@
 
 ### Entrega 1
 
-^* Creació bàsica d'elements.
+* Creació bàsica d'elements.
 (docs/E1.gif)
 
 
 ### Entrega 2
 
-^* Patró
+* Patró
 (docs/E2.gif)
 
 
 ### Entrega 3
 
-^* Rebot d'element
+* Rebot d'element
 (docs/E3.gif)
