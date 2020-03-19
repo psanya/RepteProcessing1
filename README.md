@@ -1,21 +1,21 @@
 # Repte Processing 1
 ## Pol Saña Lázaro
 
-** Entrega 1 **
+**Entrega 1**
 
 > Creació bàsica d'elements.
 
 ![GIF_1](docs/E1.gif)
 
 
-** Entrega 2 **
+**Entrega 2**
 
 > Patró.
 
 ![GIF_2](docs/E2.gif)
 
 
-** Entrega 3 **
+**Entrega 3**
 
 > Rebot d'element.
 
