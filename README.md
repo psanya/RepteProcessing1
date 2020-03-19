@@ -1,5 +1,4 @@
 # Repte Processing 1
-## Pol Saña Lázaro
 
 **Entrega 1**
 
@@ -20,3 +19,7 @@
 > Rebot d'element.
 
 ![GIF_3](docs/E3.gif)
+
+
+## Pol Saña Lázaro
+### SDAMV2 - Joviat
