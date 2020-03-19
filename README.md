@@ -29,7 +29,7 @@
 
 > Rebot d'element en un altre motor.
 
-<!--![GIF_3](docs/E3.gif)--!>
+<!--![GIF_3](docs/E3.gif)-->
 
 
 # :100:
