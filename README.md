@@ -1,7 +1,6 @@
 # Repte Processing 1
 ## Joviat - SDAMV2 - Pol Saña Lázaro 	:monkey:
 
-:100:
 
 **Entrega 1**
 
@@ -23,3 +22,4 @@
 
 ![GIF_3](docs/E3.gif)
 
+:100:
