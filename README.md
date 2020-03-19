@@ -1,7 +1,5 @@
 # Repte Processing 1
-
-## Pol Saña Lázaro
-## SDAMV2 - Joviat
+## Joviat - SDAMV2 - Pol Saña Lázaro
 
 
 **Entrega 1**
