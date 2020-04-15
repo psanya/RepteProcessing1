@@ -22,14 +22,3 @@
 > Rebot d'element.
 
 ![GIF_3](docs/E3.gif)
-
-## :star:
-
-**Entrega 4**
-
-> Rebot d'element en un altre motor.
-
-<!--![GIF_3](docs/E3.gif)-->
-
-
-# :100:
